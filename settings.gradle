@@ -1,1 +1,3 @@
-include ':blackjack-service'
+include 'blackjack'
+include 'blackjack-service'
+
